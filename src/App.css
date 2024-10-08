@@ -23,6 +23,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.home-page {
+  background-image: url('/images/download-3lYvBigKM-transformed.jpeg'); /* Use the correct path */
+  height: 100vh; /* Full height */
+  background-size: cover; /* Make sure the image covers the container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent image from repeating */
+}
+
 
 .App-link {
   color: #61dafb;
